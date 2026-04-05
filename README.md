@@ -1,7 +1,7 @@
 # RL Assignment — Text Flappy Bird Agents
 
-> **Course:** 3MD3220 — Reinforcement Learning  
-> **Author:** Daniel Fernandez Melatru  
+> **Course:** Reinforcement Learning  
+> **Author:** Daniel Fernandez de la Mela 
 > **Deadline:** April 10, 2026
 
 ## 📋 Project Description
