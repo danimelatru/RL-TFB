@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:mesocentre.pages.centralesupelec.fr)",
+      "Bash(ssh:*)",
+      "Bash(scp:*)",
+      "Bash(python3 -c ':*)",
+      "Bash(python:*)",
+      "Bash(pdflatex -interaction=nonstopmode report.tex)",
+      "Bash(jupyter nbconvert:*)",
+      "Bash(python3:*)",
+      "Bash(pdftotext /Users/Danimelatru/Desktop/Elective_courses/RL/RL-Assignment/2526_RL_Assignment_CS3A.pdf -)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(git config:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}

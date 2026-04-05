@@ -1,0 +1,1 @@
+{"alpha": 0.5, "gamma": 0.95, "mean_eval": 320.83, "std_eval": 163.11643142246584, "seeds": [{"seed": 0, "final_avg_reward_1k": 96.631, "eval_mean": 279.32, "eval_std": 270.97183912724216}, {"seed": 1, "final_avg_reward_1k": 105.049, "eval_mean": 538.1, "eval_std": 524.68949865611}, {"seed": 2, "final_avg_reward_1k": 104.733, "eval_mean": 145.07, "eval_std": 133.5729953995193}]}
